@@ -1,4 +1,4 @@
-![logo.domager.com](https://github.com/domager-com/logo/1/cover.png)
+![logo.domager.com](https://domager-com.github.io/logo/1/cover.png)
 
 # [www.domager.com](https://www.domager.com) - Domain Manager
 
