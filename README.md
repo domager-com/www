@@ -2,7 +2,7 @@
 
 # [www.domager.com](https://www.domager.com) - Domain Manager
 
-+ [git project](https://domager-com.github.io/www/
++ [git project](https://domager-com.github.io/www/)
 
 bash tool for domain maagement in environment with:
 
