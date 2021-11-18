@@ -1,3 +1,5 @@
+![logo.domager.com](https://github.com/domager-com/logo/1/cover.png)
+
 # [www.domager.com](https://www.domager.com) - Domain Manager
 
 bash tool for domain maagement in environment with:
